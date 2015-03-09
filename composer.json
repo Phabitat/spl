@@ -1,0 +1,20 @@
+{
+    "name": "phabitat/spl",
+    "description": "Standard Phabitat Library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ian Bytchek",
+            "email": "ianbytchek@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Spl\\": "source"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
+}

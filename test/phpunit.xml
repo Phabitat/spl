@@ -1,0 +1,5 @@
+<phpunit>
+    <testsuite>
+        <directory suffix='TestCase.php'>../source/Test</directory>
+    </testsuite>
+</phpunit>
